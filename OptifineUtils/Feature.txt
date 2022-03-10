@@ -1,0 +1,2 @@
+Utils to determine if Optifine is used when creating a Forge Mod.
+In the example, we have created a check to see if FastRender is being used.
