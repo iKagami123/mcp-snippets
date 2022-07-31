@@ -28,7 +28,6 @@ After
 
 ```java
         //Insert these codes in public void run()
-        InetAddress inetaddress = null;
         ServerAddress serveraddress = ServerAddress.fromString(serverData.serverIP); //Parallel processing of lagged portions
         String ip = serveraddress.getIP();
         int port = serveraddress.getPort();
