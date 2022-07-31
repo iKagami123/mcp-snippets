@@ -1,4 +1,4 @@
-ServerAddress.fromString(serverData.serverIP);; in the thread because there is a lag when processing it
+ServerAddress.fromString(serverData.serverIP); in the thread because there is a lag when processing it
 
 I have created two separate methods for connecting locally and connecting to a server.
 
